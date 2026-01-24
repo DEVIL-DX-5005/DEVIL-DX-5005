@@ -1,9 +1,10 @@
-<svg width="1500" height="5" viewBox="0 0 1500 5" xmlns="http://www.w3.org/2000/svg">
+<svg width="1500" height="5" viewBox="0 0 1500 5" xmlns="http://www.w3.org/2000/svg" style="background: #f0f0f0;">
   <defs>
-    <linearGradient id="lineGradient" x1="0%" y1="0%" x2="100%" y2="0%">
-      <stop offset="0%" stop-color="#4facfe" />
-      <stop offset="100%" stop-color="#00f2fe" />
+    <linearGradient id="sunsetGradient" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#ff8a00" />
+      <stop offset="100%" stop-color="#da1b60" />
     </linearGradient>
   </defs>
-  <line x1="0" y1="2.5" x2="1500" y2="2.5" stroke="url(#lineGradient)" stroke-width="5" />
+  
+  <line x1="0" y1="2.5" x2="1500" y2="2.5" stroke="url(#sunsetGradient)" stroke-width="5" />
 </svg>
