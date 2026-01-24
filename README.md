@@ -6,6 +6,11 @@
 
 ---
 
+- 🧐 NAME: **DEVIL DX**
+- 💻 HOBBY: **Programming & Coding**
+
+---
+
 ### ⚡ Quick Stats & Achievements
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=DEVIL-DX-5005&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Stats" height="170px" />
