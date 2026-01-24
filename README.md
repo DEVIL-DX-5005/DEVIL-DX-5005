@@ -8,9 +8,13 @@
 </h3>
  
 <img align="center" alt="line" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/images/line-1.svg">
+
+</p>
  
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?center=true&vCenter=true&color=%23F70B10&size=27&lines=Full+Stack+Developer;Creative+Problem+Solver;Tech+Enthusiast;Open+Source+Contributor)](https://git.io/typing-svg)
- 
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?center=true&vCenter=true&color=%23F70B10&size=27&lines=Full+Stack+Developer;Creative+Problem+Solver;Tech+Enthusiast;Open+Source+Contributor" alt="Typing SVG">
+  </a>
 </p>
  
 <img align="center" alt="line" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/images/line-1.svg">
