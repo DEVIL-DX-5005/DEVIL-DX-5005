@@ -25,15 +25,15 @@
  
 <img align="center" alt="line" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/images/line-2.svg">
  
-- 😏 𝐍𝐀𝐌𝐄:- 𝐃𝐄𝐕𝐈𝐋
+- 😍 NAME :- **DEVIL DX**
  
 <img align="center" alt="line" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/images/line-2.svg">
  
-- 🤨 𝐇𝐎𝐁𝐁𝐘 :- 𝗣𝗥𝗢𝗚𝗥𝗔𝗠𝗠𝗜𝗡𝗚
+- 💻 HOBBY :- **PROGRAMMING & CODING**
  
 <img align="center" alt="line" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/images/line-2.svg">
  
-- 📱𝐅𝐀𝐂𝐄𝐁𝐎𝐎𝐊:- [MR MAFIYA](https://www.facebook.com/M9FIY9D0NH3R3)
+- 📱 FACEBOOK :- [〲ཽ࿆DEVILཽ 豐࿐ 〲DXニꙮ](https://www.facebook.com/devil.dx.5005)
  
 <img align="center" alt="line" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/images/line-2.svg">
  
