@@ -7,7 +7,7 @@
   <img src="https://emoji.discord.st/emojis/768b108d-274f-4f44-a634-8477b16efce7.gif" width="25">
 </h3>
  
-<img align="center" alt="line" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/images/line-1.svg">
+<img align="center" alt="line" src="https://github.com/DEVIL-DX-5005/DEVIL-DX-5005/blob/main/assets/images/line-1.svg">
 
 </p>
  
@@ -17,7 +17,7 @@
   </a>
 </p>
  
-<img align="center" alt="line" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/images/line-1.svg">
+<img align="center" alt="line" src="https://github.com/DEVIL-DX-5005/DEVIL-DX-5005/blob/main/assets/images/line-1.svg">
  
 <h3><b><i>🏆 Github Statistics :</i></b></h3>
 <a href="https://github.com/DEVIL-DX-5005"><img title="trophy" src="https://github-profile-trophy.vercel.app/?username=DEVIL DX&theme=monokai"></a>
