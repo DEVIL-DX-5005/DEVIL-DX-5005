@@ -23,19 +23,19 @@
 <a href="https://github.com/DEVIL-DX-5005"><img title="trophy" src="https://github-profile-trophy.vercel.app/?username=DEVIL DX&theme=monokai"></a>
  
  
-<img align="center" alt="line" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/images/line-1.svg">
+<img align="center" alt="line" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/images/line-2.svg">
  
 - 😍 NAME :- **DEVIL DX**
  
-<img align="center" alt="line" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/images/line-1.svg">
+<img align="center" alt="line" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/images/line-2.svg">
  
 - 💻 HOBBY :- **PROGRAMMING & CODING**
  
-<img align="center" alt="line" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/images/line-1.svg">
+<img align="center" alt="line" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/images/line-2.svg">
  
 - 📱 FACEBOOK :- [〲ཽ࿆DEVILཽ 豐࿐ 〲DXニꙮ](https://www.facebook.com/devil.dx.5005)
  
-<img align="center" alt="line" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/images/line-1.svg">
+<img align="center" alt="line" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/images/line-2.svg">
  
 ### ⚙️   Language & programming
  
