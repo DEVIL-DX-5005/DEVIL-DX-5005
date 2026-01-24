@@ -23,7 +23,7 @@
 <a href="https://github.com/DEVIL-DX-5005"><img title="trophy" src="https://github-profile-trophy.vercel.app/?username=DEVIL DX&theme=monokai"></a>
  
  
-<img align="center" alt="line" src="https://github.com/DEVIL-DX-5005/DEVIL-DX-5005/blob/main/assets/images/line-2.svg">
+<img align="center" alt="line" src="https://github.com/DEVIL-DX-5005/DEVIL-DX-5005/blob/main/assets/images/line-4.svg">
  
 - 😍 NAME :- **DEVIL DX**
  
