@@ -6,6 +6,8 @@
 
 ---
 
+<div align="left">
+
 - 🧐 NAME: **DEVIL DX**
 - 💻 HOBBY: **Programming & Coding**
 
