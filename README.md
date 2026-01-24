@@ -24,11 +24,3 @@
 </p>
 
 ---
-
-### 📈 Weekly Activity (Animated)
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=DEVIL-DX-5005&bg_color=1a1b27&color=70a5fd&line=547cff&point=403d3d&area=true&hide_border=true)
-
-<br/>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" width="100%"/>
-</div>
