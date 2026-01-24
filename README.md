@@ -19,12 +19,8 @@
  
 <img align="center" alt="line" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/images/line-1.svg">
  
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=DEVIL-DX-5005&label=Profile%20views&color=eb4d3d&style=flat-square" alt="DEVIL-DX-5005" />
-</p>
- 
 <h3><b><i>🏆 Github Statistics :</i></b></h3>
-<a href="https://github.com/Mafiyahunter"><img title="trophy" src="https://github-profile-trophy.vercel.app/?username=MR. MAFIYA&theme=monokai"></a>
+<a href="https://github.com/DEVIL-DX-5005"><img title="trophy" src="https://github-profile-trophy.vercel.app/?username=DEVIL DX&theme=monokai"></a>
  
  
 <img align="center" alt="line" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/images/line-2.svg">
