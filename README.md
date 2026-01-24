@@ -13,8 +13,8 @@
 
 ### ⚡ Quick Stats & Achievements
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=DEVIL-DX-5005&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Stats" height="170px" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=DEVIL-DX-5005&theme=tokyonight&hide_border=true" alt="Streak" height="170px" />
+  <img src="https://github-readme-stats.vercel.app/api?username=DEVILDX5005&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Stats" height="170px" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=DEVILDX5005&theme=tokyonight&hide_border=true" alt="Streak" height="170px" />
 </p>
 
 ### 🛠 Tech Stack & Tools
