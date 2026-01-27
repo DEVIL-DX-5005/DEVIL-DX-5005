@@ -32,6 +32,10 @@
 - 💻 HOBBY :- **PROGRAMMING & CODING**
  
 <img align="center" alt="line" src="https://github.com/DEVIL-DX-5005/DEVIL-DX-5005/blob/main/assets/images/line-3.svg">
+
+- ❤️ LOVE :- **ISHU**
+
+<img align="center" alt="line" src="https://github.com/DEVIL-DX-5005/DEVIL-DX-5005/blob/main/assets/images/line-3.svg">
  
 - 📱 FACEBOOK :- [〲ཽ࿆DEVILཽ 豐࿐ 〲DXニꙮ](https://www.facebook.com/devil.dx.5005)
  
