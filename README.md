@@ -25,19 +25,19 @@
  
 <img align="center" alt="line" src="https://github.com/DEVIL-DX-5005/DEVIL-DX-5005/blob/main/assets/images/line-3.svg">
  
-- 😍 NAME :- **DEVIL DX**
+- 😍 NAME :- 𝐃𝐄𝐕𝐈𝐋 𝐃𝐗
  
 <img align="center" alt="line" src="https://github.com/DEVIL-DX-5005/DEVIL-DX-5005/blob/main/assets/images/line-4.svg">
  
-- 💻 HOBBY :- **PROGRAMMING & CODING**
+- 💻 HOBBY :- 𝐏𝐑𝐎𝐆𝐑𝐀𝐌𝐌𝐈𝐍𝐆 & 𝐂𝐎𝐃𝐈𝐍𝐆
  
 <img align="center" alt="line" src="https://github.com/DEVIL-DX-5005/DEVIL-DX-5005/blob/main/assets/images/line-3.svg">
 
-- ❤️ LOVE :- **ISHU**
+- ❤️ LOVE :- 𝐀𝐍𝐆𝐄𝐋
 
 <img align="center" alt="line" src="https://github.com/DEVIL-DX-5005/DEVIL-DX-5005/blob/main/assets/images/line-3.svg">
  
-- 📱 FACEBOOK :- [〲ཽ࿆DEVILཽ 豐࿐ 〲DXニꙮ](https://www.facebook.com/devil.dx.5005)
+- 📱 FACEBOOK :- [〲ཽ࿆DEVILཽ 豐࿐ 〲DXニꙮ](https://www.facebook.com/devildx5005)
  
 <img align="center" alt="line" src="https://github.com/DEVIL-DX-5005/DEVIL-DX-5005/blob/main/assets/images/line-4.svg">
  
