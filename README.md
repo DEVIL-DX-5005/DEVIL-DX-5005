@@ -33,7 +33,7 @@
  
 <img align="center" alt="line" src="https://github.com/DEVIL-DX-5005/DEVIL-DX-5005/blob/main/assets/images/line-3.svg">
 
-- ❤️ LOVE :- 𝐀𝐍𝐆𝐄𝐋
+- 👨‍💻 PROFESSION :- 𝐂𝐎𝐌𝐏𝐔𝐓𝐄𝐑 𝐄𝐍𝐆𝐈𝐍𝐄𝐄𝐑
 
 <img align="center" alt="line" src="https://github.com/DEVIL-DX-5005/DEVIL-DX-5005/blob/main/assets/images/line-3.svg">
  
