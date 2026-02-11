@@ -37,7 +37,7 @@
 
 <img align="center" alt="line" src="https://github.com/DEVIL-DX-5005/DEVIL-DX-5005/blob/main/assets/images/line-3.svg">
  
-- 📱 FACEBOOK :- [〲ཽ࿆DEVILཽ 豐࿐ 〲DXニꙮ](https://www.facebook.com/profile.php?id=100071688345097)
+- 📱 FACEBOOK :- (https://www.facebook.com/profile.php?id=100071688345097)
  
 <img align="center" alt="line" src="https://github.com/DEVIL-DX-5005/DEVIL-DX-5005/blob/main/assets/images/line-4.svg">
  
