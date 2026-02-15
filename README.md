@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://img.shields.io/badge/DEVELOPER-blue?style=flat-square&labelColor=007ACC&color=007ACC">
+  <img src="https://img.shields.io/badge/DEVELOPER -blue?style=flat-square&labelColor=007ACC&color=007ACC">
   <img src="https://img.shields.io/badge/PROGRAMMER-orange?style=flat-square&labelColor=FF8C00&color=FF8C00">
   
 <h3 align="center">
