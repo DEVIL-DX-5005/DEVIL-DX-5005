@@ -23,7 +23,7 @@
 ### 🏆 Github Statistics
 <p align="center">
   <a href="https://github.com/DEVIL-DX-5005">
-    <img title="trophy" src="https://github-profile-trophy.vercel.app/?username=DEVIL-DX-5005&theme=monokai">
+    <img src="https://github-profile-trophy.vercel.app/?username=DEVIL-DX-5005&theme=monokai" alt="trophy">
   </a>
 </p>
 
