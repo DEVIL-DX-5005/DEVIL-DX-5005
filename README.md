@@ -1,5 +1,6 @@
 <p align="center">
-  <img src="https://img.shields.io/badge/DEVELOPER%20%26%20PROGRAMMER-green?style=flat-square&labelColor=31a14c&color=31a14c">
+  <img src="https://img.shields.io/badge/DEVELOPER-blue?style=flat-square&labelColor=007ACC&color=007ACC">
+  <img src="https://img.shields.io/badge/PROGRAMMER-orange?style=flat-square&labelColor=FF8C00&color=FF8C00">
   
 <h3 align="center">
   <img src="https://emoji.discord.st/emojis/768b108d-274f-4f44-a634-8477b16efce7.gif" width="25">
