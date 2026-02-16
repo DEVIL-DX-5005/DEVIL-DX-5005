@@ -3,9 +3,9 @@
   <img src="https://img.shields.io/badge/PROGRAMMER-orange?style=flat-square&labelColor=FF8C00&color=FF8C00">
   
 <h3 align="center">
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Smiling%20Face%20with%20Horns.png" width="40">
+  <img src="https://github.com/DEVIL-DX-5005/DEVIL-DX-5005/blob/main/assets/gif/768b108d-274f-4f44-a634-8477b16efce7.gif" width="40">
     𝐃𝐄𝐕𝐈𝐋 𝐃𝐗
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Smiling%20Face%20with%20Horns.png" width="40">
+  <img src="https://github.com/DEVIL-DX-5005/DEVIL-DX-5005/blob/main/assets/gif/768b108d-274f-4f44-a634-8477b16efce7.gif" width="40">
 </h3>
 
 <img align="center" alt="line" src="https://github.com/DEVIL-DX-5005/DEVIL-DX-5005/blob/main/assets/images/line-1.svg">
