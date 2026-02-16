@@ -14,7 +14,7 @@
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Quicksand&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Crafting+Digital+Experiences;Full+Stack+Architecture;Turning+Coffee+into+Code;Building+Scalable+Solutions;Continuous+Learner+%26+Builder" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=1B2E4B&center=true&vCenter=true&width=500&height=50&size=28&lines=Architecting+the+Future;Full+Stack+Precision;Elegant+Problem+Solver;Open+Source+Advocate;Turning+Logic+into+Reality" alt="Typing SVG" />
   </a>
 </p>
 
