@@ -13,9 +13,7 @@
 </p>
 
 <p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=1B2E4B&center=true&vCenter=true&width=500&height=50&size=28&lines=Architecting+the+Future;Full+Stack+Precision;Elegant+Problem+Solver;Open+Source+Advocate;Turning+Logic+into+Reality" alt="Typing SVG" />
-  </a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=25&pause=1000&color=F70000&width=435&lines=Hi%2C+I'm+DEVIL+DX;Full-Stack+Developer;Software+Engineer;Networking+Technician" alt="Typing SVG" /></a>
 </p>
 
 <img align="center" alt="line" src="https://github.com/DEVIL-DX-5005/DEVIL-DX-5005/blob/main/assets/images/line-1.svg">
