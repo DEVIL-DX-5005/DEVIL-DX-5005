@@ -3,9 +3,9 @@
   <img src="https://img.shields.io/badge/PROGRAMMER-orange?style=flat-square&labelColor=FF8C00&color=FF8C00">
   
 <h3 align="center">
-  <img src="https://emoji.discord.st/emojis/768b108d-274f-4f44-a634-8477b16efce7.gif" width="25">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJidWNoeXp3YnZueXp3YnZueXp3YnZueXp3YnZueXp3YnZueCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/L20mbc7yBGxkh2f87f/giphy.gif" width="35">
     𝐃𝐄𝐕𝐈𝐋 𝐃𝐗
-  <img src="https://emoji.discord.st/emojis/768b108d-274f-4f44-a634-8477b16efce7.gif" width="25">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJidWNoeXp3YnZueXp3YnZueXp3YnZueXp3YnZueXp3YnZueCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/L20mbc7yBGxkh2f87f/giphy.gif" width="35">
 </h3>
 
 <img align="center" alt="line" src="https://github.com/DEVIL-DX-5005/DEVIL-DX-5005/blob/main/assets/images/line-1.svg">
