@@ -4,7 +4,7 @@
   
 <h3 align="center">
   <img src="https://github.com/DEVIL-DX-5005/DEVIL-DX-5005/blob/main/assets/anim/768b108d-274f-4f44-a634-8477b16efce7.gif" width="40">
-    𝐃𝐄𝐕𝐈𝐋 𝐃𝐗
+    𝐃𝐄𝐕𝐈𝐋
   <img src="https://github.com/DEVIL-DX-5005/DEVIL-DX-5005/blob/main/assets/anim/768b108d-274f-4f44-a634-8477b16efce7.gif" width="40">
 </h3>
 
@@ -14,7 +14,7 @@
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=25&pause=1000&color=F70000&width=435&lines=Hi%2C+I'm+DEVIL+DX;Full-Stack+Developer;Software+Engineer;Networking+Technician" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=25&pause=1000&color=F70000&width=435&lines=Hi%2C+I'm+DEVIL;Full-Stack+Developer;Software+Engineer;Networking+Technician" alt="Typing SVG" />
   </a>
 </p>
 
