@@ -30,7 +30,11 @@
 <img align="center" alt="line" src="https://github.com/DEVIL-DX-5005/DEVIL-DX-5005/blob/main/assets/images/line-3.svg">
 
 ### 👤 About Me
-- 😍 **NAME** :- 𝐃𝐄𝐕𝐈𝐋 𝐃𝐗
+- 😍 **NAME** :- 𝐉𝐀𝐘 𝐊𝐔𝐌𝐀𝐑
+- 🔖 **NICKNAME** :- 𝐃𝐄𝐕𝐈𝐋
+- 🌐 **FROM** :- 𝐏𝐔𝐍𝐄
+- 🕉️ **RELIGION** :- 𝐇𝐈𝐍𝐃𝐔
+- 🎓 **EDUCATION** :- 𝐁𝐂𝐀 + 𝐂𝐎𝐌𝐏𝐔𝐓𝐄𝐑 𝐇𝐀𝐑𝐃𝐖𝐀𝐑𝐄 𝐒𝐎𝐅𝐓𝐖𝐀𝐑𝐄 & 𝐍𝐄𝐓𝐖𝐎𝐑𝐊𝐈𝐍𝐆
 - 👨‍💻 **PROFESSION** :- 𝐂𝐎𝐌𝐏𝐔𝐓𝐄𝐑 𝐄𝐍𝐆𝐈𝐍𝐄𝐄𝐑
 - 💻 **HOBBY** :- 𝐏𝐑𝐎𝐆𝐑𝐀𝐌𝐌𝐈𝐍𝐆 & 𝐂𝐎𝐃𝐈𝐍𝐆
 - 📱 **FACEBOOK** :- [Visit Profile](https://www.facebook.com/profile.php?id=100071688345097)
