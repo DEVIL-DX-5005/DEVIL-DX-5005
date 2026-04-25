@@ -25,7 +25,6 @@
 - 🌐 **From** :- 𝗠𝗨𝗠𝗕𝗔𝗜
 - 🕉️ **Religion** :- 𝗛𝗜𝗡𝗗𝗨
 - 🎓 **Education** :- 𝗚𝗥𝗔𝗗𝗨𝗔𝗧𝗜𝗢𝗡 + 𝗖𝗢𝗠𝗣𝗨𝗧𝗘𝗥 𝗛𝗔𝗥𝗗𝗪𝗔𝗥𝗘 𝗦𝗢𝗙𝗧𝗪𝗔𝗥𝗘 𝗔𝗡𝗗 𝗡𝗘𝗧𝗪𝗢𝗥𝗞𝗜𝗡𝗚
-- 👨‍💻 **Profession** :- 𝗦𝗬𝗦𝗧𝗘𝗠 𝗔𝗗𝗠𝗜𝗡𝗜𝗦𝗧𝗥𝗔𝗧𝗢𝗥
 - 💻 **Hobby** :- 𝗣𝗥𝗢𝗚𝗥𝗔𝗠𝗠𝗜𝗡𝗚 𝗔𝗡𝗗 𝗖𝗢𝗗𝗜𝗡𝗚
 - 📱 **Facebook** :- [Visit Profile](https://www.facebook.com/profile.php?id=100071688345097)
 
